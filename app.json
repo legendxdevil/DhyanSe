@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "DhyanSe",
+    "slug": "dhyanse",
+    "icon": "./download (1).jpeg",
+    "scheme": "acme",
+    "plugins": [
+      "expo-router"
+    ],
+    "newArchEnabled": true,
+    "extra": {
+      "DEEPSEEK_API_KEY": "sk-0ace7d60d80f4a918e478cd94a604377",
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "3933c604-bcfa-4f0a-bc2f-17521719afcf"
+      }
+    }
+  }
+}
